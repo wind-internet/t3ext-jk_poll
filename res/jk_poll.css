@@ -1,0 +1,61 @@
+@CHARSET "UTF-8";
+.tx_jkpoll_pi1_image {
+	float:left;
+	padding-right:10px;
+}
+
+ul.tx_jkpoll_pi1_answers {
+	list-style-type:none;
+	margin-left:0;
+	padding-left:0;
+	margin-bottom:20px;
+}
+
+/*ul.tx_jkpoll_pi1_answers li {
+	width:150px;
+	float:left;
+	padding:10px;
+	border:1px solid black;
+	cursor:pointer;
+	margin:0px 10px 10px 0px;
+}*/
+
+/*ul.tx_jkpoll_pi1_answers li:hover {
+	background-color:#eee;
+}*/
+
+.tx_jkpoll_pi1_link_list {
+	padding-top:30px;
+}
+
+.tx_jkpoll_pi1_answer_horizontal {
+	padding-bottom:10px;
+}
+
+ul.tx_jkpoll_pi1_answers input.pollanswer {
+	margin-left:0px;
+	margin-top:5px;
+	width:10px;
+	height:10px;
+}
+
+ul.tx_jkpoll_pi1_answers .answer_content {
+}
+
+ul.tx_jkpoll_pi1_answers img {
+	display:block;
+}
+
+ul.tx_jkpoll_pi1_answers label {
+}
+
+.tx_jkpoll_pi1_answer_vertical {
+	float:left;
+	padding-right:10px;
+}
+
+.tx-jkpoll-pi1 .error_poll_link {
+	padding-top:20px;
+}
+
+
